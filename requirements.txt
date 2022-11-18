@@ -1,0 +1,10 @@
+flask
+pandas
+seaborn
+matplotlib
+scikit-learn
+xgboost
+yellowbrick
+mlxtend
+wtforms
+streamlit
